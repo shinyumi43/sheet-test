@@ -1,0 +1,2 @@
+rootProject.name = "GsheetItemDemo2"
+include ':app'
